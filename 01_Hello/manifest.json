@@ -1,0 +1,13 @@
+{
+    "manifest_version":2,
+    "name": "Hello!",
+    "version": "1.0",
+    "browser_action": {
+        "//": "Extentsionのアイコンの大きさを指定します。",
+        "default_icon": {
+            "16": "icon.png"
+        },
+        "//": "アイコンをクリックした時に表示されるHTMLを指定します。",
+        "default_popup": "popup.html"
+    }
+}
