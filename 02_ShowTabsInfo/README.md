@@ -1,5 +1,5 @@
 # 01_Hello
-Google extension アイコンをクリックすると自作HTMLを表示させます。
+Google extension アイコンをクリックすると今開いているタブ名を表示させます。
 
 ## このプロジェクトで学習したこと
 1. ```manifest.json``` がGoogle extension の設定ファイルになります。
