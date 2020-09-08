@@ -2,11 +2,35 @@
 Google extension を作成するための基本的な勉強したのでそのまとめまです。
 
 ## What I learn in this project.  
+Google Extensionの基本的なことを学びました。
+* アイコンの表示方法  
+* アイコンリクック時にHTMLを表示する方法  
+* Chromeのタブ情報をGoogle ExtensionのHTMLへ表示させる方法
+* Google ExtensionのHTMLの情報をChromeで開いているWebページへ反映させる方法
+* Google Extensionのオプション値をGoogle Extensionへ保存する方法  
+* 画面右クリックで発動するGoogle Extensionの作り方
+* ページ初期表示にJavaScriptを実行する方法
+* Google Extensionのアイコン上に任意の値を表示する方法
+* タブ初期表示時にHTMLを表示させる方法
 
 ## Project Structure  
 このプロジェクトでは、以下のフォルダ毎にそれぞれのGoogle Extensionを用意しています。  
 1. [01_Hello](./01_Hello)  
-Google extension アイコンを表示してクリックした時に「Hello」と表示するGoogle extensionです。
+Google Extension アイコンを表示してクリックした時に「Hello」と表示します。  
+2. [02_ShowTabsInfo](./02_ShowTabsInfo)  
+Chromeのタブ情報を読み込みこんで、タブ名をGoolge ExtensionのHTMLへ表示します。  
+3. [03_ChangeBgColor](./03_ChangeBgColor)  
+Goolge ExtensionのHTMLセレクトボックスで色を選択して、Chromeで開いているWebページの背景色へその色を反映させます。  
+4. [04_OptionsUi](./04_OptionsUi)  
+Goolge Extensionのオプションで色を選択して、Chromeで開いているWebページの背景色へその色を反映させます。  
+5. [05_ContextMenus](./05_ContextMenus)  
+Chromeで開いているWebページを右クリックして色を選択して、Chromeで開いているWebページの背景色へその色を反映させます。  
+6. [06_ContextScript](./06_ContextScript)  
+Webページの初期表示にJavaScriptを実行して、リンク数をアラートで表示させます。  
+7. [07-MessagePassing](./07-MessagePassing)  
+Chromeで開いているWebページのリンク数をGoogle Extensionのアイコン上に表示させます。  
+8. [08-NewTab](./08-NewTab)  
+Chromeのタブを初期表示時に自前のHTMLを表示させます。  
 
 ## Get started
 このプロジェクトで用意されたGoogle ExtensionをChromeで動かす方法を説明します。
