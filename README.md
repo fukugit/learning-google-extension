@@ -8,6 +8,7 @@ Google Extensionの基本的なことを学びました。
 * Chromeのタブ情報をGoogle ExtensionのHTMLへ表示させる方法
 * Google ExtensionのHTMLの情報をChromeで開いているWebページへ反映させる方法
 * Google Extensionのオプション値をGoogle Extensionへ保存する方法  
+* Google Extensionのオプション値をChromeで開いているWebページへ反映させる方法
 * 画面右クリックで発動するGoogle Extensionの作り方
 * ページ初期表示にJavaScriptを実行する方法
 * Google Extensionのアイコン上に任意の値を表示する方法
