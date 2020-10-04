@@ -4,22 +4,22 @@ Google extension を作成するための基本的な勉強したのでそのま
 ## What I learn in this project.  
 このプロジェクトでは、以下のフォルダ毎に個別のGoogle Extensionを用意しています。  
 
-| ディレクトリ                                   | 概要           | 学んだこと                     |
-| ---------------------------------------- | ------------ | ------------------------- |
-| [01_Hello](./01_Hello)                   | HTMLを表示      | Chromeへのアイコン表示            |
-|                                          |              | アイコンクリックでHTML表示           |
-| [02_ShowTabsInfo](./02_ShowTabsInfo)     | タブ名を取得       | タブ名の取得                    |
-|                                          |              | 取得したタブ名をHTMLで表示           |
-| [03_ChangeBgColor](./03_ChangeBgColor)   | 背景色変更        | HTMLでリスト表示                |
-|                                          |              | 表示されているWebページの背景色変更       |
-| [04_OptionsUi](./04_OptionsUi)           | Chromeストレージ  | Chromeのオプションを開く           |
-|                                          |              | Chromeストレージへ保存            |
-|                                          |              | Chromeストレージ読み込み           |
-| [05_ContextMenus](./05_ContextMenus)     | 右クリック        | 右クリックでメニュー表示              |
-|                                          |              | メニュー内容を取得                 |
-| [06_ContextScript](./06_ContextScript)   | リンク数取得       | 表示されているWebページのリンク数を取得     |
-| [07-MessagePassing](./07-MessagePassing) | アイコンへ数字を反映   | リンク数を取得してChromeアイコンへ数字を反映 |
-| [08-NewTab](./08-NewTab)                 | 初期表示時にHTML表示 | Chromeタブを初期表示時に自前のHTMLを表示 |
+| ディレクトリ                                   | 概要                         | 学んだこと                     |
+| ---------------------------------------- | -------------------------- | ------------------------- |
+| [01_Hello](./01_Hello)                   | HTMLを表示します。                | Chromeへのアイコン表示            |
+|                                          |                            | アイコンクリックでHTML表示           |
+| [02_ShowTabsInfo](./02_ShowTabsInfo)     | タブ名をHTMLへ表示します。            | タブ名の取得                    |
+|                                          |                            | 取得したタブ名をHTMLで表示           |
+| [03_ChangeBgColor](./03_ChangeBgColor)   | Webページの背景色変更します            | HTMLでリスト表示                |
+|                                          |                            | 表示されているWebページの背景色変更       |
+| [04_OptionsUi](./04_OptionsUi)           | 値をChromeストレージへsave/readします | Chromeのオプションを開く           |
+|                                          |                            | Chromeストレージへ保存            |
+|                                          |                            | Chromeストレージ読み込み           |
+| [05_ContextMenus](./05_ContextMenus)     | 右クリックでメニューを表示します。          | 右クリックでメニュー表示              |
+|                                          |                            | メニュー内容を取得                 |
+| [06_ContextScript](./06_ContextScript)   | Webページのリンク数を取得します。         | 表示されているWebページのリンク数を取得     |
+| [07-MessagePassing](./07-MessagePassing) | アイコンへリンク数を反映します。           | リンク数を取得してアイコンへ数字を反映 |
+| [08-NewTab](./08-NewTab)                 | 初期表示時にHTML表示します。           | Chromeタブを初期表示時に自前のHTMLを表示 |
 
 ## Get started
 このプロジェクトで用意されたGoogle ExtensionをChromeで動かす方法を説明します。

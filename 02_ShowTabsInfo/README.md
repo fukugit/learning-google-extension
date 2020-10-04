@@ -12,6 +12,3 @@ Google extension アイコンをクリックすると開いているタブ名を
 | [manifest.json](./manifest.json) | Google Extensionの設定ファイル |
 | [popup.html](./popup.html)       | アイコンリクック時に表示されるHTML     |
 | [popup.js](./popup.js)           | タブ名を取得するJavascript      |
-
-
-

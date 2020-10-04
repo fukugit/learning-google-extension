@@ -11,5 +11,3 @@ Google extension アイコンをクリックすると自作HTMLを表示させ�
 | [icon.png](./icon.png)           | アイコン                    |
 | [manifest.json](./manifest.json) | Google Extensionの設定ファイル |
 | [popup.html](./popup.html)       | アイコンリクック時に表示されるHTML     |
-
-
