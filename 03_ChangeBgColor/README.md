@@ -1,12 +1,12 @@
 # 03_ChangeBgColor
 アイコンクリック時にHTMLで色のリストを表示して、そのリストで選択した色を開いているWebページの背景色へ設定します。  
 
-## What I learn in this project. 
+## このプロジェクトで学んだこと
 1. HTMLでリストを表示させる方法
 2. HTMLのFormの値をJavascriptで取得する方法
 3. 開いているWebページのstyleを変更する方法
 
-## Project Structure  
+## このプロジェクトの構成 
 | ファイル                             | 概要                        |
 | -------------------------------- | ------------------------- |
 | [icon.png](./icon.png)           | アイコン                      |

@@ -1,11 +1,11 @@
 # 02_ShowTabsInfo
 Google extension アイコンをクリックすると開いているタブ名を表示します。
 
-## What I learn in this project. 
+## このプロジェクトで学んだこと
 1. 開いているページのタブ名の取得する方法
 2. Javascriptの値をHTMLに表示させる方法
 
-## Project Structure  
+## このプロジェクトの構成 
 | ファイル                             | 概要                      |
 | -------------------------------- | ----------------------- |
 | [icon.png](./icon.png)           | アイコン                    |
